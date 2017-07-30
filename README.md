@@ -1,2 +1,2 @@
-### lisp_lodash
-An attempt to implement all lodash functions using common lisp
+## lisp_lodash
+An attempt to re-write the JavaScript lodash library in Common Lisp.

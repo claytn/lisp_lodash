@@ -33,8 +33,7 @@
 ;; helper function for finding length of a list
 (defun length (arr)
   (if (null arr) 0
-    (+ 1 (length (cdr arr))))
-)
+    (+ 1 (length (cdr arr)))))
 
 ;; mean: given a list of numbers returns the mean of the values in the list
 (defun _mean (arr)
